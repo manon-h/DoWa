@@ -29,7 +29,8 @@
 <body>
 
 <h2>First paragraph</h2>
-
+ <a href="https://github.com/manon-h/DoWa/blob/master/Afbeeldingpagina">Afbeeldingpagina</a>
+ 
 <form>
 <input class="button" type="button" value="Hallo" onclick="window.location.href='https://classroom.google.com/c/Mzg2OTg2ODkyMzVa/sa/Mzg2OTg2ODkyNzda/details'" />
 </form>
